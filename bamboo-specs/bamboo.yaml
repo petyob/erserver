@@ -41,7 +41,7 @@ plan-permissions:
   permissions:
   - view
 - users:
-  - petyob
+  - petyo
   permissions:
   - view
   - edit
